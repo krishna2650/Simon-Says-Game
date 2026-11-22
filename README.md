@@ -100,7 +100,7 @@ Open `index.html` in your browser or use the Live Server extension in Visual Stu
 
 **Krishna Sabanna Koneri**
 
-B.Sc. Information Technology Student | Aspiring Full-Stack Developer
+ Aspiring Full-Stack Developer
 
 Passionate about web development, building interactive applications, and continuously learning new technologies.
 
